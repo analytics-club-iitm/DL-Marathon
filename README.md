@@ -16,6 +16,8 @@ There are **NONE** at all. However, do expect a strong learning curve as we are 
 
 ## Session Recordings and Content
 
+**Direct links to open in Google Collab can be found in the respective Notebooks**
+
 | Session | Recording | Content |
 | :------:|:--------------:| :------:|
 | 1 | [link](https://drive.google.com/file/d/100KnFhLVJP__Lcg7gsmfygGHAwVswBbH/view?usp=sharing) | [./intro/](https://github.com/analytics-club-iitm/DL-Marathon/tree/main/intro) |
