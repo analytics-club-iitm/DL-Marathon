@@ -6,7 +6,7 @@
 
 - **14th Feb**: Introduction - Basic fundamentals of ML (linear regression, gradient descent, backpropagation, etc), Introduction to Pytorch
 - **16th-17th Feb**: Computer Vision - Introduction to CNNs, Implementing simple Image Classification and Segmentation models, Visualization to build an intuitive understanding of how CNN's work.
-- **18th Feb**: Generative Adversarial Networks - Introduction to GANs (why and how?), implementing a simple handwritten digit Generation model.
+- **18th Feb**: Generative Adversarial Networks - Introduction to GANs (why and how?), implementing a simple handwritten digit Generation model.
 - **22nd Feb**: Reinforcement Learning - Introduction to RL, Q Learning for snake game, Deep Q Learning to play Visdom.
 - **2nd - 3rd March**: Natural Language Processing - How to represent words (TF-IDF, Word2Vec), Sentence Classification models, Sequential models (RNN, LSTM), Language Translation (seq-to-seq).
 
