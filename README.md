@@ -21,6 +21,8 @@ There are **NONE** at all. However, do expect a strong learning curve as we are 
 | Session | Recording | Content |
 | :------:|:--------------:| :------:|
 | 1 | [link](https://drive.google.com/file/d/100KnFhLVJP__Lcg7gsmfygGHAwVswBbH/view?usp=sharing) | [./intro/](https://github.com/analytics-club-iitm/DL-Marathon/tree/main/intro) |
+| 2 | [link](https://drive.google.com/file/d/1UIz3MmdcI25OpPYI4md5wlaFDRmtKaY4/view?usp=sharing) | [./img-cls/](https://github.com/analytics-club-iitm/DL-Marathon/tree/main/img-cls) |
+| 3 | [link](https://drive.google.com/file/d/1BCrXrKuTcGn8XHIw-fwbrtxDTkqe6V1w/view?usp=sharing) | [./seg/](https://github.com/analytics-club-iitm/DL-Marathon/tree/main/seg) |
 
 ---
 All the session content and recordings will be shared in this repository. We strongly urge everyone to post their queries in the [discussions tab](https://github.com/analytics-club-iitm/DL-Marathon/discussions/) rather than personally contacting us to avoid repetitions. This also helps build a large compilation of questions that would be useful for everyone to refer to at any point in time. 
